@@ -3,8 +3,8 @@
 
 
 # Algorithms used: 
-Logistic regression
-Random forest
-KNN
+Logistic regression,
+Random forest,
+KNN,
 Decision Tree
 
