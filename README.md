@@ -1,8 +1,8 @@
 # Kaggle_Practice:
-# Titanic: Machine learnig from disaster
+Titanic: Machine learnig from disaster
 
 
-# Algorithms used: 
+Algorithms used: 
 Logistic regression,
 Random forest,
 KNN,
